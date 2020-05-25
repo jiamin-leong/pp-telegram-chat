@@ -9,6 +9,8 @@ As long as you're using Telegram and are in a group chat/have an ongoing convers
 3. Select appropriate Chat export settings -- it ranges from Photos, Video files, Stickers etc. but we are really going to only need the text messages
 4. Click 'EXPORT' and you're done!
 
-
 ## Analysis
 Refer to ipynb for the steps. 
+
+## Pre-requisites
+Anaconda: https://docs.anaconda.com/anaconda/install/mac-os/ 
