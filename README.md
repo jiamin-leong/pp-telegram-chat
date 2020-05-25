@@ -1,4 +1,3 @@
-# pp-telegram-chat
 # Understanding Chat Data
 Sharing my approach on how to perform an end-to-end transformation from Telegram Chat Data in HTML to visualised insights
 
