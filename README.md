@@ -11,5 +11,4 @@ As long as you're using Telegram and are in a group chat/have an ongoing convers
 
 
 ## Analysis
-To built it yourself, just go to the ipynb for the step-by-step.
-
+Refer to ipynb for the steps. 
