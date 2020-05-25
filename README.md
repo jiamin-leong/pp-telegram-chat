@@ -10,8 +10,9 @@ As long as you're using Telegram and are in a group chat/have an ongoing convers
 4. Click 'EXPORT' and you're done!
 
 ## Analysis
-Refer to ipynb for the steps. 
-Advised to download and place ipynb within the same folder as your HTML exports/alternatively indicate file path.
+Refer to ipynb for the steps.
+
+Advised to download and place ipynb within the same folder as your HTML exports or indicate file path.
 
 ## Pre-requisites
 Anaconda: https://docs.anaconda.com/anaconda/install/mac-os/ 
