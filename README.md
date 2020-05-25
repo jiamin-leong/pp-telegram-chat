@@ -15,4 +15,4 @@ Refer to ipynb for the steps.
 Advised to download and place ipynb within the same folder as your HTML exports or indicate file path.
 
 ## Pre-requisites
-Anaconda: https://docs.anaconda.com/anaconda/install/mac-os/ 
+Anaconda: https://docs.anaconda.com/anaconda/install/mac-os/  
