@@ -16,3 +16,6 @@ Advised to download and place ipynb within the same folder as your HTML exports 
 
 ## Pre-requisites
 Anaconda: https://docs.anaconda.com/anaconda/install/mac-os/  
+
+## If you're new to Python
+Bridging resources are available here: https://github.com/jiamin-leong/bridging
